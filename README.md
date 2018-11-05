@@ -4,7 +4,7 @@ This boot camp covers Azure Functions and Function Apps.
 ## Outline
 This boot camp includes the following topics. 
 
-### Module 1: Introduction to Functions ![L100](assets/images/L100.png)
+### Module 1: Introduction to Functions 
 In this module, you'll learn the basics of Azure Functions. It includes:
 
 * What are Functions?
