@@ -47,9 +47,18 @@ This module includes:
 
 * Using the Monitor tab to review executions.
 * Examining Function data in Azure Storage. 
-* Using Application Insights with Function Apps.
+* An overview of using Application Insights with Function Apps.
 
-### Module 6: Introduction to Durable Functions ![L300](assets/images/L300.png)
+### Module 6: Troubleshooting Function Apps ![L200](assets/images/L200.png)
+In this module, you'll learn how to troubleshoot Function Apps using both internal and external tools.
+
+This module includes:
+
+* Troubleshooting with AppLens and App Service Diagnostics.
+* Troubleshooting with Function App logging and Application Insights.
+* Troubleshooting with Kusto.
+
+### Module 7: Introduction to Durable Functions ![L300](assets/images/L300.png)
 In this module, you'll be introduced to Durable Functions, an extension to Azure Functions that allows you to write stateful workflows with Azure Functions. 
 
 
