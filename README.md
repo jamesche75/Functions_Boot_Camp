@@ -23,3 +23,5 @@ This module includes:
 * Configuring common triggers and bindings in the portal.
 * Examining the *function.json* file.
 
+
+
