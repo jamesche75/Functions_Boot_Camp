@@ -45,6 +45,8 @@ In this module, you'll add some simple code to your Function App and test it. Yo
 
 This module includes:
 
+* Running a function in the portal.
+* Using Postman to test functions. 
 * Using the Monitor tab to review executions.
 * Examining Function data in Azure Storage. 
 * An overview of using Application Insights with Function Apps.
@@ -58,7 +60,16 @@ This module includes:
 * Troubleshooting with Function App logging and Application Insights.
 * Troubleshooting with Kusto.
 
-### Module 7: Introduction to Durable Functions ![L300](assets/images/L300.png)
+### Module 7: Advanced Function App Concepts ![L300](assets/images/L300.png)
+In this module, you'll learn about advanced topics for Function Apps.
+
+This module includes:
+
+* Route templates
+* Function Proxies (Might need this as a separate module.)
+* 
+
+### Module 8: Introduction to Durable Functions ![L300](assets/images/L300.png)
 In this module, you'll be introduced to Durable Functions, an extension to Azure Functions that allows you to write stateful workflows with Azure Functions. 
 
 
