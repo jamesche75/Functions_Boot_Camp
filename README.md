@@ -39,7 +39,7 @@ This module includes:
 * An overview of input bindings.
 * An overview of output bindings.
 
-### Module 5: Function App Configuration Files ![L100](assets/images/L100.png)
+### Module 5: Function App Configuration Files ![L200](assets/images/L200.png)
 In this module, you'll learn about the configuration files in a Function App. 
 
 This module includes:
