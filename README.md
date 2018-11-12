@@ -51,7 +51,7 @@ This module includes:
 * The *host.json* file.
 * The *function.json* file.
 * The *project.json* file.
-* The *extension.json* file which is new for v2. 
+* The *extensions.json* file which is new for v2. 
 
 ### Module 6: Testing and Monitoring a Function ![L200](assets/images/L200.png)
 In this module, you'll add some simple code to your Function App and test it. You'll also learn how to monitor executions of your Functions.
