@@ -10,6 +10,7 @@ In this module, you'll learn the basics of Azure Functions. It includes:
 * What are Functions?
 * Why use Functions?
 * Pricing and hosting models for Functions.
+* Understanding the Runtime Versions available. 
 
 ### Module 2: Introduction to Triggers and Bindings ![L100](assets/images/L100.png)
 In this module, you'll get a grasp on the different triggers available for your Function Apps. You'll also be introduced to input and output bindings. 
@@ -29,6 +30,9 @@ This module includes:
 * Navigating features and settings.
 * Function App storage details.
 * Reviewing a basic *function.json* file.
+* Developing locally in Visual Studio Code 
+* Developing locally in Visual Studio
+* Developing in the Portal. 
 
 ### Module 4: Configuring Triggers and Bindings ![L100](assets/images/L100.png)
 In this module, you'll learn how to use the Integrate tab to configure triggers and bindings. 
@@ -47,6 +51,7 @@ This module includes:
 * The *host.json* file.
 * The *function.json* file.
 * The *project.json* file.
+* The *extension.json* file which is new for v2. 
 
 ### Module 6: Testing and Monitoring a Function ![L200](assets/images/L200.png)
 In this module, you'll add some simple code to your Function App and test it. You'll also learn how to monitor executions of your Functions.
@@ -76,6 +81,9 @@ This module includes:
 * Route templates
 * Function Proxies (Might need this as a separate module.)
 * The *proxies.json* file.
+* Language Types
+* Lanugage Workers
+* Scale Controller and Scaling Logics
 
 ### Module 9: Introduction to Durable Functions ![L300](assets/images/L300.png)
 In this module, you'll be introduced to Durable Functions, an extension to Azure Functions that allows you to write stateful workflows with Azure Functions. 
